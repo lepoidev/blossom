@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.autoComplete.extraPaths": ["../blossom/"],
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.append('../blossom/'"
+    ]
+
+}

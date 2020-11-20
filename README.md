@@ -1,2 +1,2 @@
 # blossom
-An implementation of Edmonds Blossom algorithm
+An implementation of Edmonds Blossom algorithm for maximum matchings
